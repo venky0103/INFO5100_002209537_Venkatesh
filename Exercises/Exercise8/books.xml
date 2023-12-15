@@ -1,0 +1,26 @@
+<BookShelf>
+    <Book>
+        <title>The Great Gatsby</title>
+        <publishedYear>1925</publishedYear>
+        <numberOfPages>180</numberOfPages>
+        <authors>
+            <author>J.R.R. Tolkien</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>1984</title>
+        <publishedYear>1949</publishedYear>
+        <numberOfPages>328</numberOfPages>
+        <authors>
+            <author>George Orwell</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Brave New World</title>
+        <publishedYear>1932</publishedYear>
+        <numberOfPages>311</numberOfPages>
+        <authors>
+            <author>Aldous Huxley</author>
+        </authors>
+    </Book>
+</BookShelf>

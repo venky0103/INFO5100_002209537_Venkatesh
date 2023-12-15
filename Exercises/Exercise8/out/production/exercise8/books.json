@@ -1,0 +1,30 @@
+{
+    "BookShelf": {
+        "Book": [
+            {
+                "title": "The Great Gatsby",
+                "publishedYear": "1925",
+                "numberOfPages": "180",
+                "authors": {
+                    "author": "J.R.R. Tolkien"
+                }
+            },
+            {
+                "title": "1984",
+                "publishedYear": "1949",
+                "numberOfPages": "328",
+                "authors": {
+                    "author": "George Orwell"
+                }
+            },
+            {
+                "title": "Brave New World",
+                "publishedYear": "1932",
+                "numberOfPages": "311",
+                "authors": {
+                    "author": "Aldous Huxley"
+                }
+            }
+        ]
+    }
+}
